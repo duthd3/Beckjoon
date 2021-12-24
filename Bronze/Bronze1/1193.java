@@ -8,7 +8,7 @@ public class Level8_1193 {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int input = sc.nextInt(); //몇번째 인지?
-		//input이 몇번째 조인지?
+		
 		int cross_count=1;//대각선의 칸 개수
 		int prev_cross_count=0;//이전 대각선의 칸 수의누적 
 		while(true) {
